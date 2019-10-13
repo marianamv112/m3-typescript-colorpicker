@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - change the render method of the Class "DimensionConfigurater" so the it renders one of those according to the dimension property
   - I'm a width configurator
   - I'm a height configurator
-- in in Class "SquareConfigurator" set the dimension prop of the first to "height" and the dimension prop of the second to "width"
+- in Class "SquareConfigurator" set the dimension prop of the first to "height" and the dimension prop of the second to "width"
 
 ## Iteration 3
 - add a "length" property to the DimensionConfigurator
