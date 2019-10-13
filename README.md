@@ -12,8 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - add the property "Dimension" to the DimensionConfigurator Class
 - create an "enum" as a type for the dimension property. Dimension can be "width" or "heigth"
 - change the render method of the Class "DimensionConfigurater" so the it renders one of those according to the dimension property
- - I'm a width configurator
- - I'm a height configurator
+  - I'm a width configurator
+  - I'm a height configurator
 - in in Class "SquareConfigurator" set the dimension prop of the first to "height" and the dimension prop of the second to "width"
 
 ## Iteration 3
