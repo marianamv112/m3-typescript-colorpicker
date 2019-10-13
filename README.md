@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # LAB SquareConfigurator
+ - fork and clone this project
 
 ## Iteration 1
 - Create a new JSX Component Class "SquareConfigurator", it should render "Hello I'm a square configurator"
