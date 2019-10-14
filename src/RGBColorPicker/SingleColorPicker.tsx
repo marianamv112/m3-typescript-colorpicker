@@ -5,7 +5,7 @@ export enum baseColor {
     g = "green",
     b = "blue"
 }
-
+ 
 interface IonIntensityChange{
     (color:baseColor,intensity:number):void
 }

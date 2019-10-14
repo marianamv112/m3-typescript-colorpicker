@@ -5,7 +5,7 @@ interface IState{
     rValue:number;
     gValue:number;
     bValue:number;
-};
+}; 
 
 export default class RGBColorPicker extends React.PureComponent<IProps, IState> {
 
