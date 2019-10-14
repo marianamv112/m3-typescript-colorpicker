@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import RGBColorPicker from './RGBColorPicker/RGBColorPicker'
+import SquareConfigurator from './GeometricActions/SquareConfigurator'
 
 interface IProps { };
 interface IState { };
@@ -16,8 +17,8 @@ export default class App extends React.PureComponent<IProps, IState> {
     return <div>
       <p>Hello TypeScript world</p>
       <RGBColorPicker />
-
-
+      <SquareConfigurator />
+      
     </div>
   }
 }
